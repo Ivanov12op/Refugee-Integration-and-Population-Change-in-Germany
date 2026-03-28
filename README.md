@@ -19,7 +19,7 @@ Calculation of refugee share of population
 Comparison by arrival cohorts and nationality
 
  Micro data available only after 2015
-Sample-based data may not be fully representative
+
 
 Author: Tsvetan Ivanov
 Date: March 2026
